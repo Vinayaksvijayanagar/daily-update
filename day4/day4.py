@@ -29,3 +29,9 @@ if file:
     import pandas as pd
     data = pd.read_csv(file)
     st.dataframe(data.head())
+
+#form 
+#. Layout & Columns
+#Sidebar
+#Displaying Data Properly
+#Upload File → Read with Pandas
