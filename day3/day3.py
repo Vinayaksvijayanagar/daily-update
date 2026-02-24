@@ -50,3 +50,17 @@ st.write("You picked:", color)
 number = st.number_input("Enter a number", 0,100,50)
 st.write("You entered:", number)    
 
+import streamlit as st
+#checkbox 
+#radio button
+#selectbox
+#multiselect
+#slider
+#text input
+#text area
+#date input
+#time input
+#file uploader
+#color picker
+#number input
+ 
